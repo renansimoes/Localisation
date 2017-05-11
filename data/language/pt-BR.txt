@@ -3218,7 +3218,7 @@ STR_3207    :Construtor de Montanha-Russa
 STR_3208    :Gerenciador de Projetos de Pista
 STR_3209    :Voltar para o Passo Anterior:
 STR_3210    :Avançar para o Próximo Passo:
-STR_3211    :Tamanho do Mapa:
+STR_3211    :{WINDOW_COLOUR_2}Tamanho do Mapa:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :Impossível diminuir ainda mais o tamanho do mapa
 STR_3214    :Impossível aumentar ainda mais o tamanho do mapa
@@ -4363,6 +4363,10 @@ STR_6051    :A largura e a altura precisam combinar
 STR_6052    :A altura do mapa é muito grande, e será cortada
 STR_6053    :A altura do mapa não pode ser normalizada
 STR_6054    :Apenas bitmaps de 24-bit são suportados
+STR_6055    :Arquivo OpenRCT2 de altura de mapa
+STR_6056    :{SMALLFONT}{BLACK}Mudo
+STR_6057    :{SMALLFONT}{BLACK}Mostrar na barra de ferramentas um botão separado para a opção Mudo
+STR_6058    :Mudo
 
 #############
 # Scenarios #
