@@ -3762,13 +3762,13 @@ STR_5420    :Rotacionar{MOVE_X}{87}{COMMA16}
 STR_5421    :Ampliar
 STR_5422    :Ampliar{MOVE_X}{87}{COMMA16}
 STR_5423    :Aguardar
-STR_5424    :Aguardar{MOVE_X}{87}{UINT16}
+STR_5424    :Aguardar{MOVE_X}{87}{COMMA16}
 STR_5425    :Reiniciar
 STR_5426    :Fim
 STR_5427    :Cordenadas:
 STR_5428    :Rotações anti-horárias:
 STR_5429    :Nível de ampliação:
-STR_5430    :Segundos de espera:
+STR_5430    :Milissegundos de espera:
 STR_5431    :Salvar para carregar:
 STR_5432    :Comando:
 STR_5433    :Sequências de título
@@ -4439,6 +4439,12 @@ STR_6127    :Arquivo: {STRING}
 STR_6128    :O arquivo não pode ser carregado pois alguns dos objetos referência dele estão faltando ou corrompidos. Uma lista desses objetos está disponível abaixo.
 STR_6129    :Copiar itens selecionados para o clipboard
 STR_6130    :Copiar lista inteira para o clipboard
+STR_6131    :Fonte do objeto
+STR_6132    :Ignorar status de pesquisa
+STR_6133    :{SMALLFONT}{BLACK}Acessa atrações e cenários que ainda não foram inventados
+STR_6134    :Limpar Cenário
+STR_6135    :Cliente enviou um pedido inválido
+STR_6136    :Servidor enviou um pedido inválido
 
 #############
 # Scenarios #
@@ -4581,7 +4587,7 @@ STR_SCNR    :Funtopia
 STR_PARK    :Funtopia
 STR_DTLS    :Cobrindo terra em ambos os lados de uma estrada, este parque já tem vários brinquedos em operação.
 
-<Haunted Harbour>
+<Haunted Harbor>
 STR_SCNR    :Haunted Harbour
 STR_PARK    :Haunted Harbour
 STR_DTLS    :A autoridade local concordou em vender barato o terreno para este pequeno parque litorâneo, com a condição de que certos brinquedos são preservados.
